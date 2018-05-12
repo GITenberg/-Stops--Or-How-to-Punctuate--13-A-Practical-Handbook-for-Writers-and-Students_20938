@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9618'
     url: http://www.gutenberg.org/2009/agents/9618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20938#-Stops--Or-How-to-Punctuate--13-A-Practical-Handbook-for-Writers-and-Students
 gutenberg_issued: '2007-03-29'
 gutenberg_type: Text
 identifiers:
