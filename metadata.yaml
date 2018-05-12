@@ -1,0 +1,27 @@
+_repo: -Stops--Or-How-to-Punctuate--13-A-Practical-Handbook-for-Writers-and-Students_20938
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allardyce, Paul
+    birthdate: 1855
+    deathdate: 1895
+    gutenberg_agent_id: '9618'
+    url: http://www.gutenberg.org/2009/agents/9618
+description: ''
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Punctuation'
+- !lcc 'PE'
+- !lcsh 'Proofreading'
+title: "\"Stops\", Or How to Punctuate\r\nA Practical Handbook for Writers and Students"
+url: http://www.gutenberg.org/ebooks/20938
